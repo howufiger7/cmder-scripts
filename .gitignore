@@ -1,0 +1,6 @@
+Cmder.exe
+Version*
+*.dll
+vendor/clink
+vendor/conemu-maximus5
+vendor/msysgit
