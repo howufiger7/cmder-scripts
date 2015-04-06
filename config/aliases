@@ -1,5 +1,5 @@
 e.=explorer .
 gl=git log --oneline --all --graph --decorate  $*
-ls=ls --color $*
+ls=ls -la --color $*
 pwd=cd
 clear=cls
