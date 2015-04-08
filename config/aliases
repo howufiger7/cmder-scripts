@@ -3,3 +3,5 @@ gl=git log --oneline --all --graph --decorate  $*
 ls=ls -la --color $*
 pwd=cd
 clear=cls
+groka=grok atlas $* 
+groko=grok online $* 
