@@ -1,2 +1,2 @@
 @echo off
-"%PROGRAMFILES(X86)%\Notepad++\notepad++.exe" %1
+start C:\PROGRA~2\Notepad++\notepad++.exe %1
