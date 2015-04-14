@@ -5,3 +5,5 @@ pwd=cd
 clear=cls
 groka=grok atlas $* 
 groko=grok online $* 
+aweb=atlasweb 
+notepadpp=C:\PROGRA~2\Notepad++\Notepad++.exe 
