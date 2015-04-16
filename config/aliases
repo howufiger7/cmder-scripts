@@ -6,3 +6,4 @@ clear=cls
 groka=grok atlas $* 
 groko=grok online $* 
 aweb=atlasweb
+cd-cmder=cd c:\Users\iayzenberg\AppData\Local\Cmder\ 
